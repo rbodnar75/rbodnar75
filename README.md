@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Rick
+- 👋 Hi, I’m Rick B
 <!---
 - 👋 Hi, I’m @rbodnar75
 - 👀 I’m interested in ...
