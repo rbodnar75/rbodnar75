@@ -9,6 +9,7 @@
 
 - Test 2 from Github
 - Test from VS Code
+- Test 3 from Github
 --->
 <!---
 rbodnar75/rbodnar75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
