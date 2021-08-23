@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- Test from Github
+- Test 2 from Github
 --->
 <!---
 rbodnar75/rbodnar75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
