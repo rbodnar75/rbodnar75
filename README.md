@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rick B
+- 👋 Hi, I’m Rick Bodnar
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rick-bodnar-phd-ccna-2480971b/)
 - 📂 Active Repository: [Pyshark Playground](https://github.com/rbodnar75/pyshark-playground)
 <!---
