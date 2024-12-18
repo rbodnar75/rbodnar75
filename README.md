@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Rick Bodnar
-- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rick-bodnar-phd-ccna-2480971b/)
-- 📂 Active Repository: [Pyshark Playground](https://github.com/rbodnar75/pyshark-projects-playground)
+
 <!---
 - 👋 Hi, I’m @rbodnar75
 - 👀 I’m interested in ...
@@ -8,8 +6,49 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+-👋 Hi, I'm Rick Bodnar
+
+Welcome to my GitHub profile! I'm passionate about networking, data analysis, and software development. Here you'll find some of my projects and contributions.
+
+## 🔗 Connect with Me
+- LinkedIn
+
 --->
 <!---
 rbodnar75/rbodnar75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+# 👋 Hi, I'm Rick Bodnar
+
+Welcome to my GitHub profile! I'm passionate about networking, data analysis, and software development. Here you'll find some of my projects and contributions.
+
+## 📂 Active Public Repository
+- Pyshark Playground [Pyshark Playground](https://github.com/rbodnar75/pyshark-projects-playground)
+
+## 🚀 About Me
+- 🎓 PhD in Computer Science
+- 🏅 CCNA Certified
+- 🌱 Always learning new technologies and improving my skills
+
+## 🛠️ Technologies & Tools
+- Python, C++, Java
+- Wireshark, Pyshark
+- Cisco Networking, Network Security
+- Data Analysis, Machine Learning
+
+## 📫 How to Reach Me
+- Feel free to reach out via **LinkedIn** for any collaboration or networking opportunities.
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rick-bodnar-phd-ccna-2480971b/)
+
+<!---
+rbodnar75/rbodnar75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
