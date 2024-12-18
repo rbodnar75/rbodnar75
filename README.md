@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about networking, data analysis, an
 - Pyshark Playground [Pyshark Playground](https://github.com/rbodnar75/pyshark-projects-playground)
 
 ## 🚀 About Me
-- 🎓 PhD in Computer Science
+- 🎓 PhD in Information Technology Management with a focus on Information Security
 - 🏅 CCNA Certified
 - 🌱 Always learning new technologies and improving my skills
 
