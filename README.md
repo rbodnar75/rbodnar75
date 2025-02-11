@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm passionate about networking, data analysis, an
 
 ## 🚀 About Me
 - 🎓 PhD in Information Technology Management with a focus on Information Security
+- 🏅 AWS AI Practitioner
 - 🏅 CCNA Certified
 - 🌱 Always learning new technologies and improving my skills
 
