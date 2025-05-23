@@ -9,7 +9,7 @@
 
 -👋 Hi, I'm Rick Bodnar
 
-Welcome to my GitHub profile! I'm passionate about networking, data analysis, and software development. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm passionate about network security, data analysis, and software development. Here you'll find some of my projects and contributions.
 
 ## 🔗 Connect with Me
 - LinkedIn
