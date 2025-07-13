@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm passionate about networking, data analysis, an
 
 ## 📂 Active Public Repository
 - Pyshark Playground [Pyshark Playground](https://github.com/rbodnar75/pyshark-projects-playground)
+- WireShark Anomaly Detection Plugin [WireShark Plugin](https://github.com/rbodnar75/WireSharkPlugin)
 
 ## 🚀 About Me
 - 🎓 PhD in Information Technology Management with a focus on Information Security
