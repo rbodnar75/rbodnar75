@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 Welcome to my GitHub profile! I'm passionate about networking, data analysis, and software development. Here you'll find some of my projects and contributions.
 
 ## 📂 Active Public Repository
+- Agave Cacti Network Monitoring Plugin Theme [Agave Cacti](https://github.com/rbodnar75/AgaveCacti)
 - Pyshark Playground [Pyshark Playground](https://github.com/rbodnar75/pyshark-projects-playground)
 - WireShark Anomaly Detection Plugin [WireShark Plugin](https://github.com/rbodnar75/WireSharkPlugin)
 
