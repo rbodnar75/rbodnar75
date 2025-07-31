@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about networking, data analysis, an
 - 🌱 Always learning new technologies and improving my skills
 
 ## 🛠️ Technologies & Tools
-- Python, C++, Java
+- Python, C++, Java, Swift
 - Wireshark, Pyshark
 - Cisco Networking, Network Security
 - Data Analysis, Machine Learning
